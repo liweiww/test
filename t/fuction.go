@@ -8,3 +8,6 @@ func Print() {
 func Say() {
 	fmt.Println("Say")
 }
+func Dog() {
+	fmt.Println("Dog")
+}
