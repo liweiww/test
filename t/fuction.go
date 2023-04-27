@@ -11,3 +11,6 @@ func Say() {
 func Dog() {
 	fmt.Println("Dog")
 }
+func Cat() {
+	fmt.Println("Cat")
+}
