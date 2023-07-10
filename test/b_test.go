@@ -1,6 +1,7 @@
 package test
 
 import (
+	"fmt"
 	digui "github.com/liweiww/test/t"
 	"testing"
 )
@@ -14,4 +15,5 @@ func TestSay(t *testing.T) {
 	digui.Dog()
 	digui.Dog()
 	digui.Dog()
+	fmt.Print("dadsa")
 }
