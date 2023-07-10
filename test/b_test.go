@@ -12,4 +12,5 @@ func TestName(t *testing.T) {
 func TestSay(t *testing.T) {
 	digui.Say()
 	digui.Dog()
+	digui.Dog()
 }
